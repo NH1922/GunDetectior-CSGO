@@ -7,6 +7,7 @@ from keras.layers import Dense
 from keras.layers import Convolution2D
 from keras.layers import MaxPooling2D
 from keras.layers import Flatten
+from keras.layers import Dropout
 from keras.preprocessing.image import ImageDataGenerator
 from scipy import ndimage
 from matplotlib import pyplot as plt
